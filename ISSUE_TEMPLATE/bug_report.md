@@ -1,4 +1,3 @@
-[bug_report.md](https://github.com/user-attachments/files/33519958/bug_report.md)
 ---
 name: 🐞 버그 리포트
 about: 운영/개발 중 발견된 오류를 등록합니다
