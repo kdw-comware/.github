@@ -1,8 +1,10 @@
+---
 name: 🛠 작업 요청 (기능/전환)
 about: API 전환, 기능 추가, 리팩터링 등 개발 작업을 등록합니다
 title: "[xxxx-xxx] "
 labels: task
 assignees: ''
+---
 
 > ⚠️ DB 접속정보·개인정보는 기재 금지.
 
