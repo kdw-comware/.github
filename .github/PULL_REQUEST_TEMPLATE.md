@@ -1,5 +1,5 @@
 ### 작업번호
-[xxxx-xxx]
+[xxxx-xxx]  (close #이슈번호)
 
 ### 작업자
 
